@@ -1,0 +1,14 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.ax.cloud.common.utils</groupId>
+	<artifactId>ax-common-utils</artifactId>
+	<name>ax-common-utils</name>
+	<description>ax-common-utils:基础工具框架</description>
+
+	<parent>
+		<groupId>com.ax.cloud</groupId>
+		<artifactId>ax-cloud</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+</project>
